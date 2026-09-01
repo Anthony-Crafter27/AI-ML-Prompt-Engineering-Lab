@@ -1,2 +1,2 @@
 # AI-ML-Prompt-Engineering-Lab
-<p>This is some text added to the page.</p>
+<p>The purpose of this lab is to use prompt engineering techniques to generate a SWOT analysis for a company of my choice.</p>
